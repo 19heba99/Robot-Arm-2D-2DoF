@@ -1,7 +1,7 @@
 # Robot-Arm-2D-2DoF
 
 
-This is team work task 
+This is a team work task 
 
 Members: 
 
@@ -11,4 +11,4 @@ Sara Alkhudhairy, Github: Sara-606
 
 Heba Magram, Github: 19heba99
 
-Task Link on TinkerCAD : https://www.tinkercad.com/things/64Yhkhf0oFo-spectacular-leelo-robo/editel
+Task Link on TinkerCAD : https://github.com/Naseemsaud/Robot-Arm-2D-2DoF
